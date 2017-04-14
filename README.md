@@ -24,39 +24,39 @@ I like solving real problems, and want to work with teams doing so.
 
 ### Work Experience:
 
-Wave.com
+####Wave.com
 
 May 2016-April 2017
 
 African operations and expansion for a mobile money and remittance startup
 
-- .Preparing licenses and other prerequisites for Wave&#39;s operations in West Africa, based in Dakar, Senegal.
-- .Successfully negotiated a bank partnership, Central Bank authorization, Value Added Service provider license, access to USSD and SMS with major telcos.
-- .Left Wave amicably after a major reorganization left no appropriate role for me compatible with my family&#39;s living circumstances (Wave is no longer focusing on West African expansion).
+- Preparing licenses and other prerequisites for Wave&#39;s operations in West Africa, based in Dakar, Senegal.
+- Successfully negotiated a bank partnership, Central Bank authorization, Value Added Service provider license, access to USSD and SMS with major telcos.
+- Left Wave amicably after a major reorganization left no appropriate role for me compatible with my family&#39;s living circumstances (Wave is no longer focusing on West African expansion).
 
-Independent consultant to several humanitarian agencies
+#### Independent consultant to several humanitarian agencies
 
 October 2015-May 2016
 
 Advisor, project manager, and software product manager
 
-- .Advising and to some extent leading an Electronic Medical Records for Emergencies development team ( [org](http://projectbuendia.org/))
-- .Ongoing support to humanitarian mapping initiative that I co-founded in 2014 ( [http://missingmaps.org](http://missingmaps.org/))
-  - ◦.Developing a software for off-line mobile image classification for humanitarian mapping ( [com/mapswipe](http://github.com/mapswipe))
-- .Development of an offline server for data collection in resource-poor settings ( [http://github.com/ivangayton/ODKAggregateOnEdison](http://github.com/ivangayton/ODKAggregateOnEdison))
-- .Support to mobile data collection projects in several countries for humanitarian agencies
+- Advising and to some extent leading an Electronic Medical Records for Emergencies development team ( [org](http://projectbuendia.org/))
+- Ongoing support to humanitarian mapping initiative that I co-founded in 2014 ( [http://missingmaps.org](http://missingmaps.org/))
+  - Developing a software for off-line mobile image classification for humanitarian mapping ( [com/mapswipe](http://github.com/mapswipe))
+- Development of an offline server for data collection in resource-poor settings ( [http://github.com/ivangayton/ODKAggregateOnEdison](http://github.com/ivangayton/ODKAggregateOnEdison))
+- Support to mobile data collection projects in several countries for humanitarian agencies
 
-MSF-UK
+#### MSF-UK
 
 GIS and Technological Innovation Advisor
 
-- .Intended to make maps for field projects, but found that the base data was simply missing.  Founded (with Andrew Braye of the British Red Cross and Dale Kunce of the American Red Cross) the Missing Maps project to create the necessary base data.  Thus far the Missing Maps has created free, open map data for nearly 20 million people.  Areas of particular focus have been DRC, South Sudan, Bangladesh, West Africa, and Burundi. In particular the Katanga mission with MSF is making use of this data in practice.
-- .Led a collaboration with Google to create electronic medical records in Ebola centres.  Created some nice hardware and software, but arrived too late to have any impact on patient care (lesson learned).
-- .Worked on UAV (drone) imagery collection; so far no field deployments due to my own caution about perception, but would love to follow up.
-- .Implemented off-line mobile data collection systems using OpenDataKit and cheap smartphones; this worked particularly well in Sierra Leone, albeit mostly for mapping.  Support other agencies in learning to do this.
-- .Made an attempt at SMS-based health surveillance data collection in Nigeria; this was eventually piloted and found to be worth further investment though there are still wrinkles that need ironing out; this will be followed up by the current GIS officer at MSF-UK.
+- Intended to make maps for field projects, but found that the base data was simply missing.  Founded (with Andrew Braye of the British Red Cross and Dale Kunce of the American Red Cross) the Missing Maps project to create the necessary base data.  Thus far the Missing Maps has created free, open map data for nearly 20 million people.  Areas of particular focus have been DRC, South Sudan, Bangladesh, West Africa, and Burundi. In particular the Katanga mission with MSF is making use of this data in practice.
+- Led a collaboration with Google to create electronic medical records in Ebola centres.  Created some nice hardware and software, but arrived too late to have any impact on patient care (lesson learned).
+- Worked on UAV (drone) imagery collection; so far no field deployments due to my own caution about perception, but would love to follow up.
+- Implemented off-line mobile data collection systems using OpenDataKit and cheap smartphones; this worked particularly well in Sierra Leone, albeit mostly for mapping.  Support other agencies in learning to do this.
+- Made an attempt at SMS-based health surveillance data collection in Nigeria; this was eventually piloted and found to be worth further investment though there are still wrinkles that need ironing out; this will be followed up by the current GIS officer at MSF-UK.
 
-MSF Operational Centre Amsterdam (OCA)
+#### MSF Operational Centre Amsterdam (OCA)
 
 January 2012 – April 2013
 
@@ -64,8 +64,8 @@ Head of Mission
 
 Nigeria (based in Sokoto)
 
-- .Managing a mid-sized mission with an Emergency Response Unit and an environmental response – the Zamfara Lead Poisoning crisis
-- .Doing a lot of intense, and (I think) somewhat innovative advocacy aimed at getting the government of Nigeria to take its responsibilities with regard to environmental remediation in Zamfara state.  This was quite successful; the government actually did a genuine cleanup in the affected villages.
+- Managing a mid-sized mission with an Emergency Response Unit and an environmental response – the Zamfara Lead Poisoning crisis
+- Doing a lot of intense, and (I think) somewhat innovative advocacy aimed at getting the government of Nigeria to take its responsibilities with regard to environmental remediation in Zamfara state.  This was quite successful; the government actually did a genuine cleanup in the affected villages.
 
 MSF-OCA
 
@@ -73,27 +73,27 @@ January 2011-Sept 2011
 
 Humanitarian Affairs Advisor, with a specialization in migration-related issues.
 
-- .Tried to push MSF-OCA to be a bit more involved in the general migration context
-- .Wrote the a proposal for MSF-OCA to deploy a maritime response to the migrant context in the Mediterranean, which was not implemented at the time but subsequently helped shape the MSF-Sea response
-- .Responded to emergencies (somewhat) related to migration, including two months as Head of Mission for MSF-OCG in Tunisia/Libya at the outset of the Libyan insurgency, and an assessment/vaccination program in northern Chad for people fleeing southward from Libya.
+- Tried to push MSF-OCA to be a bit more involved in the general migration context
+- Wrote the a proposal for MSF-OCA to deploy a maritime response to the migrant context in the Mediterranean, which was not implemented at the time but subsequently helped shape the MSF-Sea response
+- Responded to emergencies (somewhat) related to migration, including two months as Head of Mission for MSF-OCG in Tunisia/Libya at the outset of the Libyan insurgency, and an assessment/vaccination program in northern Chad for people fleeing southward from Libya.
 
-MSF-OCA Haiti
+#### MSF-OCA Haiti
 
 Initially Deputy Country Manager, then Emergency Coordinator for the cholera outbreak
 
 August 2010-January 2011
 
-- .Managing the MSF-OCA cholera response in Haiti
-- .Founding a collaboration with Google to map cholera cases
-
-Robin B Clark Inc. Forestry Consultants
+- Managing the MSF-OCA cholera response in Haiti
+- Founding a collaboration with Google to map cholera cases
+- MSF teams treated 110,000 choler patients during my time as Head of Mission for one of the sections during the post-earthquake cholera intervention.  Mortality without treatment was 40%, and in our facilities it was 0.9%. No other treatment was plausibly available to those patients.  Therefore it is reasonablef to assert that over 40,000 Haitians are alive today due to our efforts.  This is not, of course, down to me, it was an enormous group effort, but I played a significant role, and of all the Key Performance Indicators or quantitative metrics of the work I have done in my life,, it is the one of which I am most proud. 
+#### Robin B Clark Inc. Forestry Consultants
 
 Occasional basis since 2001 (between humanitarian missions)
 
-- .Ecological restoration projects, generally with a focus on biodiversity, often with carbon sequestration implications.
-- .GIS and training.
+- Ecological restoration projects, generally with a focus on biodiversity, often with carbon sequestration implications.
+- GIS and training.
 
-MSF (OCA) Pakistan
+#### MSF (OCA) Pakistan
 
 July 2009-July 2010
 
@@ -101,21 +101,20 @@ Project Coordinator, Eastern Balochistan
 
 Duties
 
-- .Negotiating access to an area of undeclared internal conflict in the eastern part of Pakistan&#39;s Balochistan province, where no foreign aid workers had been allowed for decades (partially successful)
+- Negotiating access to an area of undeclared internal conflict in the eastern part of Pakistan&#39;s Balochistan province, where no foreign aid workers had been allowed for decades (partially successful)
 
 
-
-MSF (OCA) Chad
+#### MSF (OCA) Chad
 
 August March-October 2008
 
 Project Coordinator, Farchana
 
-- .Handing over a refugee/IDP/host population health program to local NGOs
-- .Keeping up the humanitarian character of the project until the end, did a fair bit of advocacy for the people in the camp
-- .Managing a fairly complex security context
+- Handing over a refugee/IDP/host population health program to local NGOs
+- Keeping up the humanitarian character of the project until the end, did a fair bit of advocacy for the people in the camp
+- Managing a fairly complex security context
 
-MSF (OCA) Central African Republic
+#### MSF (OCA) Central African Republic
 
 December 2005-January 2007
 
