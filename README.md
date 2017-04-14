@@ -1,20 +1,14 @@
 # Curriculum Vitae
 
 ### Ivan Buendia Gayton
-
 5702 Solly Road
-
 Summerland, British Columbia
-
 V0H 1Z1
-
 Canada
-
 [ivangayton@gmail.com](mailto:ivangayton@gmail.com)
+Phone: +1 604 356 1458
 
- Phone: +1 604 356 1458
-
-### Overview:
+## Overview:
 
 I work in the vicinity of the intersection of technology, humanitarianism, health, and innovation.
 
@@ -22,7 +16,7 @@ I spent ten years in the hardest and most forgotten/neglected contexts of the wo
 
 I like solving real problems, and want to work with teams doing so.
 
-### Work Experience:
+## Work Experience:
 
 #### Wave.com
 
@@ -135,7 +129,7 @@ Brinkman &amp; Associates Reforestation Ltd
 
 Project manager, running forestry crews in Canada with up to 75 employees in remote locations.
 
-# Education and Training
+## Education and Training
 
 Um, not so much, at least formally!
 
@@ -149,7 +143,7 @@ I&#39;ve participated in a number of work-related training programs, mostly arou
 
 I read Wikipedia a lot, as well as various technical publications and textbooks (currently working through Peter L. Dordal&#39;s incredible free and open textbook _An Introduction to Computer Networking_).
 
-# Languages
+## Languages
 
 English: Mother tongue
 
@@ -169,7 +163,7 @@ Japanese: simple greetings and baby-talk (my 3-year-old daughter speaks English 
 
 Public speaking and advocacy: When not on mission I deliver speeches and presentations to various groups ranging from high schools and community groups to postgrad academic programs about humanitarian work, humanitarian technology, ethics, mapping, and migration policy.
 
-# Citizenship/Legal Status
+## Citizenship/Legal Status
 
 Dual Canada/USA citizen, with valid passports from both countries.  No criminal record or other problems.
 
@@ -177,7 +171,7 @@ Dual Canada/USA citizen, with valid passports from both countries.  No criminal 
 
 Looking for a job! Ideally something related to tech with operational impact in low-income/vulnerable settings.  Open to other meaningful work.
 
-# Tech projects
+## Tech projects
 
 [github.com/ivangayton](http://www.github.com/ivangayton) (in particular the ODKAggregateOnEdison project is a serious piece of functioning, complex bash scripting that&#39;s used in the real world), but a few of these projects are indicative of my mixed bag of skills; some horrible messes and some pretty good
 
@@ -189,7 +183,7 @@ Looking for a job! Ideally something related to tech with operational impact in 
 
 [missingmaps.org](http://www.missingmaps.org/) (I conceived of and co-founded this project, shameless plug here: [https://www.theguardian.com/cities/2014/oct/06/missing-maps-human-genome-project-unmapped-cities](https://www.theguardian.com/cities/2014/oct/06/missing-maps-human-genome-project-unmapped-cities))
 
-# References:
+## References:
 
 Drew Durbin, CEO, Wave.com [drew@wave.com](mailto:drew@wave.com)
 
