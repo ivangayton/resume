@@ -24,7 +24,7 @@ I like solving real problems, and want to work with teams doing so.
 
 ### Work Experience:
 
-####Wave.com
+#### Wave.com
 
 May 2016-April 2017
 
@@ -67,7 +67,7 @@ Nigeria (based in Sokoto)
 - Managing a mid-sized mission with an Emergency Response Unit and an environmental response – the Zamfara Lead Poisoning crisis
 - Doing a lot of intense, and (I think) somewhat innovative advocacy aimed at getting the government of Nigeria to take its responsibilities with regard to environmental remediation in Zamfara state.  This was quite successful; the government actually did a genuine cleanup in the affected villages.
 
-MSF-OCA
+#### MSF-OCA
 
 January 2011-Sept 2011
 
@@ -85,10 +85,11 @@ August 2010-January 2011
 
 - Managing the MSF-OCA cholera response in Haiti
 - Founding a collaboration with Google to map cholera cases
-- MSF teams treated 110,000 choler patients during my time as Head of Mission for one of the sections during the post-earthquake cholera intervention.  Mortality without treatment was 40%, and in our facilities it was 0.9%. No other treatment was plausibly available to those patients.  Therefore it is reasonablef to assert that over 40,000 Haitians are alive today due to our efforts.  This is not, of course, down to me, it was an enormous group effort, but I played a significant role, and of all the Key Performance Indicators or quantitative metrics of the work I have done in my life,, it is the one of which I am most proud. 
+- MSF teams treated 110,000 cholera patients during my time as Head of Mission for one of the sections during the post-earthquake cholera intervention.  Mortality without treatment was 40%, and in our facilities it was 0.9%. No other treatment was plausibly available to those patients.  Therefore it is reasonable to assert that over 40,000 Haitians are alive today due to our efforts.  This is not, of course, down to me; it was an enormous group effort, but I played a significant role, and of all the Key Performance Indicators or quantitative metrics of the work I have done in my life, it is the one of which I am most proud.
+ 
 #### Robin B Clark Inc. Forestry Consultants
 
-Occasional basis since 2001 (between humanitarian missions)
+Occasional basis since 2001 (between humanitarian missions since 2003)
 
 - Ecological restoration projects, generally with a focus on biodiversity, often with carbon sequestration implications.
 - GIS and training.
