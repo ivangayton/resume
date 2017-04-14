@@ -1,11 +1,17 @@
 # Curriculum Vitae
 
 ### Ivan Buendia Gayton
+
 5702 Solly Road
+
 Summerland, British Columbia
+
 V0H 1Z1
+
 Canada
+
 [ivangayton@gmail.com](mailto:ivangayton@gmail.com)
+
 Phone: +1 604 356 1458
 
 ## Overview:
